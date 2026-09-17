@@ -44,3 +44,10 @@ A Retrieval-Augmented Generation (RAG) based document chatbot built using Python
 git clone YOUR_GITHUB_REPOSITORY_URL
 cd rag-document-chatbot
 pip install -r requirements.txt
+
+
+## 👨‍💻 Author
+
+**Shajahan M**
+
+AI/ML Engineer 
