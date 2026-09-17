@@ -34,9 +34,6 @@ A Retrieval-Augmented Generation (RAG) based document chatbot built using Python
 6. Relevant chunks are retrieved based on the user's question.
 7. Groq LLM generates the final answer using the retrieved context.
 
-## 📸 Project Screenshot
-
-![Project Screenshot](screenshots/project-screenshot.png)
 
 ## ⚙️ Installation
 
@@ -46,7 +43,8 @@ cd rag-document-chatbot
 pip install -r requirements.txt
 
 
-## 👨‍💻 Author
+
+## 👨‍💻 AUTHOR
 
 **Shajahan M**
 
